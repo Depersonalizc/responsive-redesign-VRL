@@ -318,7 +318,7 @@ footer {
     }
 }
 
-@media (max-width: 1000px) and (min-width: 570px) {
+@media (max-width: 1000px) and (min-width: 575px) {
     #themes li {
         display: table;
         border-spacing: 16px 0px;
@@ -341,7 +341,7 @@ footer {
 }
 
 
-@media (max-width: 570px) {
+@media (max-width: 575px) {
     #themes li {
         display: table;
         border-spacing: 40px 0px;

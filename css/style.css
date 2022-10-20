@@ -380,6 +380,7 @@ ul.sections li {
 }
 
 .pub-yearly li {
+    display: flex;
     margin-top: 15px;
 }
 
